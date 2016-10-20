@@ -1,5 +1,5 @@
 # curvePieceEstimate
-Curve Piece Estimate (SLAM). Attempt to construct a curved trajectory estimate from point cloud data.
+Curve Piece Estimate (=SLAM). Attempt to construct a curved trajectory estimate from point cloud data.
 
 '''
 Curve Piece Estimate
@@ -25,7 +25,9 @@ Uses 3DTK format, http://slam6d.sourceforge.net/
 Reads .feature files.
 Writes .pose and .frames files.
 
-See example.
+See the example. It contains loop1 data from the first article.
+
+Contributions are welcomed.
 
 Created on Jul 1, 2015
 
